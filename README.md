@@ -1,1 +1,1 @@
-# iBeacon-Demo
+# Beckoning-Beacons
