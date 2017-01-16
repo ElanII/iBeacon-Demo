@@ -1,8 +1,8 @@
 # Beckoning-Beacons
 A simple app to demonstrate iBeacons. 
 
-## See example video
-What if I wanted to "tap" and complete an action? Tap and "check in", tap and "pay", tap and "trade" are just a few examples.
+# See example video
+Putting the "tap" in a tap to go [MetroCard.](https://www.youtube.com/watch?v=d_bEWYlDsWs)
 
 https://www.youtube.com/watch?v=d_bEWYlDsWs
 
